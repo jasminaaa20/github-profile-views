@@ -1,1 +1,1 @@
-# github-profile-views
+You are one among the ![Profile Views](http://127.0.0.1:5000/profile-views.svg) people who have visited my profile. Thanks for stopping by! 😊
